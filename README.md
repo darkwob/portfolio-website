@@ -3,7 +3,7 @@
 ![Portfolio Preview](src/assets/web.png)
 
 ## 🚀 Live Demo
-[View Live Demo](https://your-portfolio-url.com)
+[View Live Demo](https://sadiksefa.dev)
 
 ## 🛠️ Built With
 - **Frontend Framework:** React.js + Vite
