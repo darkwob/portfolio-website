@@ -1,23 +1,70 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# Sadık Sefa Kütük - Portfolio Website
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+![Portfolio Preview](src/assets/web.png)
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+## 🚀 Live Demo
+[View Live Demo](https://your-portfolio-url.com)
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## 🛠️ Built With
+- **Frontend Framework:** React.js + Vite
+- **3D Graphics:** Three.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Email Service:** EmailJS
+- **Deployment:** GitHub Pages / Vercel
+
+## ✨ Features
+- Responsive design for all devices
+- Interactive 3D elements
+- Smooth animations and transitions
+- Contact form with email integration
+- Dynamic project showcase
+- Modern UI/UX design
+- Performance optimized
+- Cross-browser compatible
+
+## 🎯 Key Sections
+- **Hero Section:** Interactive 3D computer model
+- **About:** Professional background and skills
+- **Projects:** Portfolio showcase with live demos
+- **Contact:** Email form with 3D Earth model
+- **Experience:** Professional journey timeline
+- **Skills:** Technical expertise showcase
+
+## 💻 Local Development
+1. Clone the repository
+   ```bash
+   git clone https://github.com/darkwob/portfolio-website.git
+   ```
+
+2. Install dependencies
+   ```bash
+   cd portfolio-website
+   npm install
+   ```
+
+3. Start development server
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production
+   ```bash
+   npm run build
+   ```
+
+## 📧 Contact
+- Email: sadiksefa@hotmail.com.tr
+- LinkedIn: [linkedin.com/in/sadiksefa01](https://linkedin.com/in/sadiksefa01)
+- GitHub: [github.com/darkwob](https://github.com/darkwob)
+- Phone: +90 553 811 99 54
+- Location: Adana, Turkey
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgments
+- Three.js for 3D graphics
+- Tailwind CSS for styling
+- Framer Motion for animations
+- EmailJS for contact form functionality
